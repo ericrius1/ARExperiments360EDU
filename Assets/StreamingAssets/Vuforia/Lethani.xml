@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="crumpled10K" size="10.000000 16.787565" />
+    <ImageTarget name="smooth10k" size="10.000000 13.333333" />
+    <ImageTarget name="smooth5k" size="10.000000 19.989935" />
+    <ImageTarget name="neuron" size="10.000000 13.333333" />
+    <ImageTarget name="Blue_Ball" size="10.000000 13.334534" />
+  </Tracking>
+</QCARConfig>
